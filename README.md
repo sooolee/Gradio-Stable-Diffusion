@@ -25,13 +25,10 @@ I got curious how well it would generate sketches based on a sketch.
 
 I re-fed some of the img-2-img outputs into Inpainting model in order to variate or improve the images. 
 
-
-https://user-images.githubusercontent.com/95900980/213078281-845a6f94-e703-4245-b936-b955b52699a9.mp4
-
+![img2img_inpainting](https://github.com/sooolee/gradio-stable-diffusion/blob/main/images/img-2-img_inpainting.gif?raw=true)
 
 Another example of image modificiation below is where I sequentially looped the modified versions of the image for continued changes in one image. (I haven't built the looping function within Gradio as of this moment. It was manual feed.)
 
-
-https://user-images.githubusercontent.com/95900980/213078305-02e83d09-a155-48ba-ae0d-c07916e515db.mp4
+![img_modification](https://github.com/sooolee/gradio-stable-diffusion/blob/main/images/img_modification_inpainting.gif?raw=true)
 
 
